@@ -1,0 +1,44 @@
+title: Azure Landing Zone
+description: A foundational architecture for secure, scalable, and compliant Azure environments
+theme: minima
+url: "https://happy-mfv.github.io"
+baseurl: "/azure-happy"
+
+# GitHub Pages configuration
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Navigation
+header_pages:
+  - README.md
+  - docs/architecture.md
+  - docs/deployment-guide.md
+  - docs/security-policies.md
+
+# Author information
+author:
+  name: MFV Happy Team
+  email: [team-email]
+
+# Social links
+github_username: happy-mfv
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# Exclude from processing
+exclude:
+  - .terraform/
+  - terraform/.terraform/
+  - node_modules/
+  - vendor/
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - .gitignore
