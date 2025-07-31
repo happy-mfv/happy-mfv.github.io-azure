@@ -12,10 +12,11 @@ plugins:
 
 # Navigation
 header_pages:
-  - README.md
+  - index.md
   - docs/architecture.md
   - docs/deployment-guide.md
   - docs/security-policies.md
+  - docs/monitoring.md
 
 # Author information
 author:
