@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Architecture Overview
+permalink: /docs/architecture/
 ---
 
 # Architecture Overview
@@ -82,4 +83,4 @@ The network architecture implements a hub-and-spoke model with:
 
 ---
 
-[← Back to Home](../index.md) | [Next: Deployment Guide →](deployment-guide.md)
+[← Back to Home](/) | [Next: Deployment Guide →](/docs/deployment-guide/)

@@ -10,10 +10,10 @@ This site contains comprehensive documentation for our Azure Landing Zone implem
 
 ## Quick Navigation
 
-- [🏗️ Architecture Overview](docs/architecture)
-- [🚀 Deployment Guide](docs/deployment-guide)
-- [🔐 Security Policies](docs/security-policies)
-- [📊 Monitoring Setup](docs/monitoring)
+- [🏗️ Architecture Overview](/docs/architecture/)
+- [🚀 Deployment Guide](/docs/deployment-guide/)
+- [🔐 Security Policies](/docs/security-policies/)
+- [📊 Monitoring Setup](/docs/monitoring/)
 
 ## About This Project
 
@@ -40,10 +40,10 @@ Azure Landing Zone is a foundational architecture designed to provide a secure, 
 
 ## Getting Started
 
-1. **[Read the Architecture Overview](docs/architecture)** - Understand the foundational design
-2. **[Follow the Deployment Guide](docs/deployment-guide)** - Step-by-step implementation
-3. **[Review Security Policies](docs/security-policies)** - Security and compliance controls
-4. **[Set up Monitoring](docs/monitoring)** - Observability and alerting
+1. **[Read the Architecture Overview](/docs/architecture/)** - Understand the foundational design
+2. **[Follow the Deployment Guide](/docs/deployment-guide/)** - Step-by-step implementation
+3. **[Review Security Policies](/docs/security-policies/)** - Security and compliance controls
+4. **[Set up Monitoring](/docs/monitoring/)** - Observability and alerting
 
 ---
 
