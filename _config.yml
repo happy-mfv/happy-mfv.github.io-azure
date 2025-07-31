@@ -18,12 +18,6 @@ header_pages:
   - docs/security-policies.md
   - docs/monitoring.md
 
-# Collections
-collections:
-  docs:
-    output: true
-    permalink: /:collection/:name/
-
 # Author information
 author:
   name: MFV Happy Team
