@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Security Policies
-permalink: /security-policies/
 ---
 
 # Security Policies
@@ -309,4 +308,4 @@ az policy assignment create \
 
 ---
 
-[← Deployment Guide](/deployment-guide/) | [Next: Monitoring →](/monitoring/)
+[← Deployment Guide](deployment-guide) | [Next: Monitoring →](monitoring)

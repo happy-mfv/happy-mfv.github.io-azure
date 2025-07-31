@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Monitoring and Observability
-permalink: /monitoring/
 ---
 
 # Monitoring and Observability
@@ -377,4 +376,4 @@ Usage
 
 ---
 
-[← Security Policies](/security-policies/) | [Back to Home](/)
+[← Security Policies](security-policies) | [Back to Home](.)

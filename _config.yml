@@ -13,10 +13,10 @@ plugins:
 # Navigation
 header_pages:
   - index.md
-  - docs/architecture.md
-  - docs/deployment-guide.md
-  - docs/security-policies.md
-  - docs/monitoring.md
+  - architecture.md
+  - deployment-guide.md
+  - security-policies.md
+  - monitoring.md
 
 # Author information
 author:

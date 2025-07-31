@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Deployment Guide
-permalink: /deployment-guide/
 ---
 
 # Deployment Guide
@@ -216,4 +215,4 @@ terraform destroy
 
 ---
 
-[← Architecture Overview](/architecture/) | [Next: Security Policies →](/security-policies/)
+[← Architecture Overview](architecture) | [Next: Security Policies →](security-policies)
